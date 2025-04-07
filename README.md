@@ -1,4 +1,4 @@
-# QuoteMachine-ExerciceGit
+# QuoteMachine - ExerciceGit
 
 Une petite application console collaborative en C# pour générer et gérer des citations inspirantes — conçue pour pratiquer le **GitHub Flow** en équipe.
 
